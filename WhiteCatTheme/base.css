@@ -1,3 +1,7 @@
+@import url('https://goldenlys.github.io/BetterDiscord-Elysia/NoOffline.css'); /* Hides the offline status */
+@import url('https://goldenlys.github.io/BetterDiscord-Elysia/OverrableMembers.css'); /* Hides the offline status */
+@import url("https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css"); /* A horizontal server list made by Gibbu */
+
 @keyframes fadeInRight {
     0% {
         opacity: 0;
