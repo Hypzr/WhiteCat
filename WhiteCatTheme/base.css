@@ -2,6 +2,42 @@
 @import url('https://goldenlys.github.io/BetterDiscord-Elysia/OverrableMembers.css'); /* Hides the offline status */
 @import url("https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css"); /* A horizontal server list made by Gibbu */
 
+:root {
+        --Title: "WhiteCat";
+        --logo: url(https://cdn.discordapp.com/attachments/587228601611583488/683075115998904339/Untitled.png);
+        --background: url(https://cdn.discordapp.com/attachments/587228601611583488/683091574259056642/Experimental2dim.png); /*   You can also use : url(LINKtoIMAGE)  */
+        --Art1: url(https://cdn.discordapp.com/attachments/587228601611583488/683162732136103955/3079-removebg-preview.png);
+        --Art2: url(https://cdn.discordapp.com/attachments/677375453874356224/677375858058723328/DITFWELC.png);
+        --CustomStatusText: "Edit Custom Status";
+        --ViewProfileText: "Show Profile";
+        --font: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
+        --MainColor: rgba(255,255,255,1);
+		--bg1: rgb(212,192,176);
+		--bg2: rgb(212,192,176);
+		--bg3: rgb(212,192,176);
+		--bg4: rgb(212,192,176);
+        --bg5: rgb(121,197,251);
+        --bg6: rgb(15,15,25);
+        --bg7: rgb(81,77,78);
+/*  STATUSES  */
+        --Online: rgb(0, 255, 136);
+        --Idle: rgb(255, 207, 0);
+        --Unavailable: rgb(206, 47, 47);
+        --Offline: rgba(116,127,140,1);
+/*  PROFILE HEADERS (you can also use "url(LINKtoIMAGE)" for the profile headers)  */
+        --Playing: rgba(212,192,176,1); 
+        --Xbox: rgb(5, 150, 5);
+        --Spotify: rgb(15, 173, 70);
+        --Streaming: rgba(93,0,255,1);
+    
+/*  MENUS COLORS  */
+        --darkgrey: rgba(8,8,8,0.3);
+        --darkgrey5: rgba(13,13,13,0.30);
+        --popoutgrey: rgba(5, 5, 5, 0.75);
+        --BG-Image-Grey: rgba(10,10,10,0.75);
+   }
+/*END OF CONFIG*/
+
 @keyframes fadeInRight {
     0% {
         opacity: 0;
