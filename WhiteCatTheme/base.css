@@ -3010,10 +3010,6 @@ filter: none !important;
 	margin-left: -5px !important;
 }
 
-.messages-3amgkR .message-2qnXI6.mentioned-xhSam7 .container-1ov-mD {
-	margin-left: -64px;
-}
-
 .modeSelected-1zApJ_ .content-3at_AU {
 	background: linear-gradient(270deg, rgba(1, 1, 1, 0.0), rgba(47, 45, 49, 0.1), rgba(109, 93, 87, 0.5), rgba(212, 192, 176, 0.75));
 }
@@ -3167,11 +3163,6 @@ filter: none !important;
 
 .container-1ov-mD>*.reactions-12N0jA {
 	margin-left: 0px !important;
-	position: static !important;
-}
-
-.messages-3amgkR .message-2qnXI6.mentioned-xhSam7 .container-1ov-mD .reactions-12N0jA {
-	margin-left: 74px !important;
 	position: static !important;
 }
 
