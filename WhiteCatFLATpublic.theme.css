@@ -1,8 +1,12 @@
-/*//META{"name":"WhiteCat - FLAT ","description":"A Theme for BetterDiscord based on WhiteCat's osu! skin (DO NOT USE THE THEME SETTINGS TO CHANGE COLORS AS IT WILL BREAK THE THEME) !!SOME IMPORTANT ELEMENTS DO NOT WORK IN LANGUAGES OTHER THAN ENGLISH!! ","author":"Hyper","version":"0.0.1"}*//*/
+/*
+* @name WhiteCat - FLAT
+* @author Hyper⁺#0001
+* @version 1.0
+* @description A Theme for BetterDiscord based on WhiteCat's osu! skin
+*/
 
-
-/*  PLUGINS (optional)  */
 @import url('https://raw.githubusercontent.com/Hypzr/WhiteCat/master/WhiteCatTheme/base.css');
+
 :root {
         --Title: "WhiteCat";
         --logo: url(https://cdn.discordapp.com/attachments/587228601611583488/683075115998904339/Untitled.png);
