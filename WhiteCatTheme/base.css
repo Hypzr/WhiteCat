@@ -5,7 +5,7 @@
 :root {
         --Title: "WhiteCat";
         --logo: url(https://cdn.discordapp.com/attachments/587228601611583488/683075115998904339/Untitled.png);
-        --background: url(https://cdn.discordapp.com/attachments/587228601611583488/683091574259056642/Experimental2dim.png); /*   You can also use : url(LINKtoIMAGE)  */
+        --background: url(https://cdn.discordapp.com/attachments/587228601611583488/683091574259056642/Experimental2dim.png);
         --Art1: url(https://cdn.discordapp.com/attachments/587228601611583488/683162732136103955/3079-removebg-preview.png);
         --Art2: url(https://cdn.discordapp.com/attachments/677375453874356224/677375858058723328/DITFWELC.png);
         --CustomStatusText: "Edit Custom Status";
@@ -24,7 +24,7 @@
         --Idle: rgb(255, 207, 0);
         --Unavailable: rgb(206, 47, 47);
         --Offline: rgba(116,127,140,1);
-/*  PROFILE HEADERS (you can also use "url(LINKtoIMAGE)" for the profile headers)  */
+/*  PROFILE HEADERS  */
         --Playing: rgba(212,192,176,1); 
         --Xbox: rgb(5, 150, 5);
         --Spotify: rgb(15, 173, 70);
