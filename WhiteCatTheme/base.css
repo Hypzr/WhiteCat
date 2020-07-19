@@ -3488,3 +3488,21 @@ filter: none !important;
 .header-ywPcAE {
 	border-radius: 3px;
 }
+
+/* Plugin Update Notice */
+
+.noticeInfo-3_iTE1 {
+	background-color: var(--bg2) !important;
+	min-width: 700px;
+	align-self: center;
+	border-radius: 5px !important;
+	filter: drop-shadow(0px 5px 5px black)
+
+}
+
+/* Embeds */
+
+.container-1ov-mD>* {
+	border-radius: 5px !important;
+
+}
