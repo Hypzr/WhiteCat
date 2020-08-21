@@ -4482,3 +4482,7 @@ rect[fill="rgba(116, 127, 141, 1)"],
 .submenuPaddingContainer-fiOCHc {
 	right: 15px !important;
 }
+
+.mouse-mode.full-motion .message-2qnXI6:hover {
+	background-color: transparent !important;
+}
