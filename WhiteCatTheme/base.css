@@ -4515,7 +4515,7 @@ rect[fill="rgba(116, 127, 141, 1)"],
 
 }
 
-.repliedMessage-VokQwo:before {border-left: solid white;border-top: solid white;border-left: solid white;
+.repliedMessage-VokQwo:before {border-left: var(--bg1);border-top: var(--bg1);border-left: var(--bg1);
 
 }
 
